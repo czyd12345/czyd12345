@@ -41,7 +41,7 @@ Algorithm–architecture co-design of an Ising optimization
 accelerator, covering algorithm exploration, architecture design,
 RTL implementation, FPGA prototyping, and ASIC implementation.
 
-`Ising` `Optimization` `Verilog` `FPGA` `ASIC` `Cadence`
+`Ising` `Optimization` `Verilog` `FPGA``Architecture`
 
 ---
 
