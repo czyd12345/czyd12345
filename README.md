@@ -66,11 +66,11 @@ algorithm design, and hardware implementation.
 
 ---
 
-## IC Design Competitions
+## IC Design Competitions 
 
-### 2025 — 9th National Undergraduate IC Innovation & Entrepreneurship Competition
+### 2025 — 9th National College IC Innovation & Entrepreneurship Competition 
 
-**“Jingyeda Cup（“竞业达"杯）” — RISC-V Processor Design · [GitHub](YOUR_GITHUB_LINK)**
+**“Jingyeda Cup(“竞业达"杯)” — RISC-V Processor Design · [GitHub](YOUR_GITHUB_LINK)**
 
 Designed and implemented a RISC-V processor as part of
 a digital IC design competition.
@@ -79,9 +79,9 @@ a digital IC design competition.
 
 ---
 
-### 2026 — 10th National Undergraduate IC Innovation & Entrepreneurship Competition
+### 2026 — 10th National College IC Innovation & Entrepreneurship Competition
 
-**“Robei Cup("Robei 杯")” — FPGA Implementation of a Combinatorial Optimization Accelerator based on Robei EDA · [GitHub](YOUR_GITHUB_LINK)**
+**“Robei Cup(“Robei”杯)” — FPGA Implementation of a Combinatorial Optimization Accelerator based on Robei EDA · [GitHub](YOUR_GITHUB_LINK)**
 
 Implemented a 64-node combinatorial optimization accelerator on FPGA,
 with an image segmentation demonstration.
