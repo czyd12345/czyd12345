@@ -22,7 +22,7 @@ better efficiency in performance, area, and energy.
 
 **Current interests**
 
-- Combina
+- Accelerator on Combinatorial Optimization Problem
 - Efficient computing architectures
 - AI / optimization accelerators
 - Computer architecture
@@ -60,6 +60,9 @@ and localization.
 
 ---
 
+### 全国大学生集成电路创新创业大赛作品
+## 2025年（第九届）“竞业达”杯 ：RISC-V处理器的设计
+## 2026年（第十届）“Robei”杯：基于Robei EDA的组合优化加速器的FPGA实现与图像分割演示
 ## What I'm Learning
 
 ```text
