@@ -105,37 +105,10 @@ with an image segmentation demonstration.
 
 ## Beyond Engineering
 
-I don't want to learn hardware simply for the sake of
-building hardware.
-
-I want to understand how computation works from the
-**mathematical idea all the way down to physical silicon**.
-
-My long-term goal is to become someone who can move
-freely across the boundaries between **algorithms,
-architecture, and circuits** — and eventually design
-computing systems where the algorithm and the hardware
-are shaped for each other.
-
-I believe good engineering is not only about making
-something work, but also about asking:
-
-> **Why should it be built this way?**
-
-And perhaps more importantly:
-
-> **What becomes possible if we build it differently?**
+致力于用技术改变世界，在AI时代实现知识平权
 
 ---
 
-## A Few Things I Believe
-
-- Learn the fundamentals, but don't be trapped by them.
-- Build things that force you to understand what you learned.
-- Don't optimize a system before understanding the problem.
-- Hardware is not just an implementation of algorithms;
-  sometimes hardware can change the algorithm itself.
-- The most interesting ideas often live between disciplines.
 
 ---
 
