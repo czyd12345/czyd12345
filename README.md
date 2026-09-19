@@ -32,13 +32,13 @@ better efficiency in performance, area, and energy.
 
 ## Selected Projects
 
-### Ising Optimization Accelerator
+### Combinatorial Optimization Accelerator
 
 Algorithm–architecture co-design of an Ising optimization
 accelerator, from algorithm exploration to RTL/FPGA
 prototyping and ASIC implementation.
 
-`Ising` `Stochastic Computing` `Verilog` `FPGA` `ASIC` `Cadence`
+`Ising` `Verilog` `FPGA` `ASIC` `Cadence`
 
 ---
 
