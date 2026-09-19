@@ -2,13 +2,17 @@
 
 ### Hardware · Algorithms · Silicon
 
-I'm an undergraduate student in Microelectronics in Hunan University,
+I'm an undergraduate student in Microelectronics at Hunan University,
 interested in efficient computing through
 **hardware–algorithm co-design**.
 
+I am particularly interested in how computational problems
+can be mapped from algorithms to architectures,
+and eventually implemented in silicon.
+
 My current work spans:
 
-`Optimization` → `Architecture` → `RTL` → `FPGA` → `ASIC`
+`Algorithms` → `Architecture` → `RTL` → `FPGA` → `ASIC`
 
 ---
 
@@ -16,15 +20,14 @@ My current work spans:
 
 ### Hardware–Algorithm Co-Design
 
-I am interested in how computational algorithms can
-be redesigned together with hardware to achieve
-better efficiency in performance, area, and energy.
+I am interested in designing algorithms and hardware together,
+rather than treating them as independent layers.
 
-**Current interests**
+My current interests include:
 
-- Accelerator on Combinatorial Optimization Problem
+- Combinatorial optimization accelerators
 - Efficient computing architectures
-- AI / optimization accelerators
+- AI & optimization accelerators
 - Computer architecture
 - Digital & mixed-signal IC design
 
@@ -35,43 +38,110 @@ better efficiency in performance, area, and energy.
 ### Combinatorial Optimization Accelerator
 
 Algorithm–architecture co-design of an Ising optimization
-accelerator, from algorithm exploration to RTL/FPGA
-prototyping and ASIC implementation.
+accelerator, covering algorithm exploration, architecture design,
+RTL implementation, FPGA prototyping, and ASIC implementation.
 
-`Ising` `Verilog` `FPGA` `ASIC` `Cadence`
+`Ising` `Optimization` `Verilog` `FPGA` `ASIC` `Cadence`
 
 ---
 
 ### RISC-V / One Student One Chip
 
 A hands-on exploration of processor architecture and
-digital system design.
+digital system design, from ISA and microarchitecture
+to RTL and SoC implementation.
 
-`RISC-V` `RTL` `CPU` `SoC` `Verilog`
+`RISC-V` `CPU` `RTL` `Verilog` `SoC`
 
 ---
 
 ### Doppler Localization System
 
 A self-built DSP system for Doppler-based measurement
-and localization.
+and localization, integrating signal processing,
+algorithm design, and hardware implementation.
 
 `DSP` `Signal Processing` `Localization` `Hardware`
 
 ---
 
-### 全国大学生集成电路创新创业大赛作品
-## 2025年（第九届）“竞业达”杯 ：RISC-V处理器的设计
-## 2026年（第十届）“Robei”杯：基于Robei EDA的组合优化加速器的FPGA实现与图像分割演示
+## IC Design Competitions
+
+### 2025 — 9th National Undergraduate IC Innovation & Entrepreneurship Competition
+
+**“Jingyeda Cup” — RISC-V Processor Design**
+
+Designed and implemented a RISC-V processor as part of
+a digital IC design competition.
+
+`RISC-V` `Processor` `RTL` `Verilog`
+
+---
+
+### 2026 — 10th National Undergraduate IC Innovation & Entrepreneurship Competition
+
+**“Robei Cup” — FPGA Implementation of a Combinatorial
+Optimization Accelerator**
+
+Implemented a combinatorial optimization accelerator on FPGA,
+with an image segmentation demonstration.
+
+`Combinatorial Optimization` `Accelerator` `FPGA` `Robei EDA`
+
+---
+
 ## What I'm Learning
 
-```text
-Optimization
-      ↓
-Computer Architecture
-      ↓
-Digital Design / RTL
-      ↓
-ASIC Design
-      ↓
-Transistor-Level Circuits
+- Optimization methods
+- Computer architecture
+- RTL design & verification
+- FPGA development
+- ASIC design flow
+- CMOS analog & mixed-signal circuits
+- Cadence
+- Hardware–algorithm co-design
+
+---
+
+## Beyond Engineering
+
+I don't want to learn hardware simply for the sake of
+building hardware.
+
+I want to understand how computation works from the
+**mathematical idea all the way down to physical silicon**.
+
+My long-term goal is to become someone who can move
+freely across the boundaries between **algorithms,
+architecture, and circuits** — and eventually design
+computing systems where the algorithm and the hardware
+are shaped for each other.
+
+I believe good engineering is not only about making
+something work, but also about asking:
+
+> **Why should it be built this way?**
+
+And perhaps more importantly:
+
+> **What becomes possible if we build it differently?**
+
+---
+
+## A Few Things I Believe
+
+- Learn the fundamentals, but don't be trapped by them.
+- Build things that force you to understand what you learned.
+- Don't optimize a system before understanding the problem.
+- Hardware is not just an implementation of algorithms;
+  sometimes hardware can change the algorithm itself.
+- The most interesting ideas often live between disciplines.
+
+---
+
+## Contact
+
+Feel free to reach out if you are interested in:
+
+**Computer Architecture · Accelerators · Optimization ·
+Digital IC Design · Hardware–Algorithm Co-Design**
