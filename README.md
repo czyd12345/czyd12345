@@ -35,7 +35,7 @@ My current interests include:
 
 ## Selected Projects
 
-### Combinatorial Optimization Accelerator· [GitHub](YOUR_GITHUB_LINK)
+### Combinatorial Optimization Accelerator· [cyzd12345/AIAPA_ising](https://github.com/czyd12345/AIAPA_ising)
 
 Algorithm–architecture co-design of an Ising optimization
 accelerator, covering algorithm exploration, architecture design,
@@ -55,7 +55,7 @@ to RTL and SoC implementation.
 
 ---
 
-### Doppler Localization System· [GitHub](https://github.com/czyd12345/doppler-location-system))
+### Doppler Localization System· [czyd12345/doppler-location-system](https://github.com/czyd12345/doppler-location-system)
 
 Final Project of "数字信号处理" \
 A self-built DSP system for Doppler-based measurement
