@@ -35,7 +35,7 @@ My current interests include:
 
 ## Selected Projects
 
-### Combinatorial Optimization Accelerator· [cyzd12345/AIAPA_ising](https://github.com/czyd12345/AIAPA_ising)
+### Combinatorial Optimization Accelerator· [cyzd12345/AIAPA_ising](https://github.com/czyd12345/AIAPA_ising) 🟡 Ongoing
 
 Algorithm–architecture co-design of an Ising optimization
 accelerator, covering algorithm exploration, architecture design,
