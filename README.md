@@ -45,7 +45,7 @@ RTL implementation, FPGA prototyping, and ASIC implementation.
 
 ---
 
-### RISC-V / One Student One Chip · [GitHub](YOUR_GITHUB_LINK)
+### RISC-V / One Student One Chip · [GitHub](https://ysyx.oscc.cc/)
 
 A hands-on exploration of processor architecture and
 digital system design, from ISA and microarchitecture
