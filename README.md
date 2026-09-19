@@ -57,7 +57,7 @@ to RTL and SoC implementation.
 
 ### Doppler Localization System· [GitHub](YOUR_GITHUB_LINK)
 
-Final Project of "数字信号处理"
+Final Project of "数字信号处理" \
 A self-built DSP system for Doppler-based measurement
 and localization, integrating signal processing,
 algorithm design, and hardware implementation.
@@ -81,9 +81,9 @@ a digital IC design competition.
 
 ### 2026 — 10th National Undergraduate IC Innovation & Entrepreneurship Competition
 
-**“Robei Cup” — FPGA Implementation of a Combinatorial Optimization Accelerator · [GitHub](YOUR_GITHUB_LINK)**
+**“Robei Cup("Robei 杯")” — FPGA Implementation of a Combinatorial Optimization Accelerator based on Robei EDA · [GitHub](YOUR_GITHUB_LINK)**
 
-Implemented a combinatorial optimization accelerator on FPGA,
+Implemented a 64-node combinatorial optimization accelerator on FPGA,
 with an image segmentation demonstration.
 
 `Combinatorial Optimization` `Accelerator` `FPGA` `Robei EDA`
