@@ -69,7 +69,7 @@ algorithm design, and hardware implementation.
 
 ### 2025 — 9th National Undergraduate IC Innovation & Entrepreneurship Competition
 
-**“Jingyeda Cup” — RISC-V Processor Design · [GitHub](YOUR_GITHUB_LINK)**
+**“Jingyeda Cup（“竞业达"杯）” — RISC-V Processor Design · [GitHub](YOUR_GITHUB_LINK)**
 
 Designed and implemented a RISC-V processor as part of
 a digital IC design competition.
@@ -80,8 +80,7 @@ a digital IC design competition.
 
 ### 2026 — 10th National Undergraduate IC Innovation & Entrepreneurship Competition
 
-**“Robei Cup· [GitHub](YOUR_GITHUB_LINK)” — FPGA Implementation of a Combinatorial
-Optimization Accelerator**
+**“Robei Cup” — FPGA Implementation of a Combinatorial Optimization Accelerator · [GitHub](YOUR_GITHUB_LINK)**
 
 Implemented a combinatorial optimization accelerator on FPGA,
 with an image segmentation demonstration.
@@ -109,9 +108,8 @@ with an image segmentation demonstration.
 
 
 ## Contact
-
+E-mail:caoyichen@126.com
 Feel free to reach out if you are interested in:
-
 **Computer Architecture · Accelerators · Optimization ·
 Digital IC Design · Hardware–Algorithm Co-Design**
-caoyichen@126.com
+
