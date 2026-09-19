@@ -35,7 +35,7 @@ My current interests include:
 
 ## Selected Projects
 
-### Combinatorial Optimization Accelerator
+### Combinatorial Optimization Accelerator· [GitHub](YOUR_GITHUB_LINK)
 
 Algorithm–architecture co-design of an Ising optimization
 accelerator, covering algorithm exploration, architecture design,
@@ -45,7 +45,7 @@ RTL implementation, FPGA prototyping, and ASIC implementation.
 
 ---
 
-### RISC-V / One Student One Chip
+### RISC-V / One Student One Chip · [GitHub](YOUR_GITHUB_LINK)
 
 A hands-on exploration of processor architecture and
 digital system design, from ISA and microarchitecture
@@ -55,7 +55,7 @@ to RTL and SoC implementation.
 
 ---
 
-### Doppler Localization System
+### Doppler Localization System· [GitHub](YOUR_GITHUB_LINK)
 
 A self-built DSP system for Doppler-based measurement
 and localization, integrating signal processing,
@@ -69,7 +69,7 @@ algorithm design, and hardware implementation.
 
 ### 2025 — 9th National Undergraduate IC Innovation & Entrepreneurship Competition
 
-**“Jingyeda Cup” — RISC-V Processor Design**
+**“Jingyeda Cup” — RISC-V Processor Design · [GitHub](YOUR_GITHUB_LINK)**
 
 Designed and implemented a RISC-V processor as part of
 a digital IC design competition.
@@ -80,7 +80,7 @@ a digital IC design competition.
 
 ### 2026 — 10th National Undergraduate IC Innovation & Entrepreneurship Competition
 
-**“Robei Cup” — FPGA Implementation of a Combinatorial
+**“Robei Cup· [GitHub](YOUR_GITHUB_LINK)” — FPGA Implementation of a Combinatorial
 Optimization Accelerator**
 
 Implemented a combinatorial optimization accelerator on FPGA,
