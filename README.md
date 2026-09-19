@@ -1,4 +1,4 @@
-# Hi, I'm XXX
+# Hi, I'm Yichen Cao
 
 ### Hardware · Algorithms · Silicon
 
@@ -107,10 +107,6 @@ with an image segmentation demonstration.
 
 致力于用技术改变世界，在AI时代实现知识平权
 
----
-
-
----
 
 ## Contact
 
@@ -118,3 +114,4 @@ Feel free to reach out if you are interested in:
 
 **Computer Architecture · Accelerators · Optimization ·
 Digital IC Design · Hardware–Algorithm Co-Design**
+caoyichen@126.com
