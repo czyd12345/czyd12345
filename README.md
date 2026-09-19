@@ -57,6 +57,7 @@ to RTL and SoC implementation.
 
 ### Doppler Localization System· [GitHub](YOUR_GITHUB_LINK)
 
+Final Project of "数字信号处理"
 A self-built DSP system for Doppler-based measurement
 and localization, integrating signal processing,
 algorithm design, and hardware implementation.
